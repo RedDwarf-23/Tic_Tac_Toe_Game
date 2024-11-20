@@ -1,1 +1,2 @@
-#Tic Tac Toe Game Text based
+# Tic Tac Toe Game
+Tic Tac Toe Game text-based using Python.
